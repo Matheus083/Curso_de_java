@@ -2,7 +2,7 @@ package aulas;
 
 import java.util.Scanner;
 
-public class aula19_igualdade_strings {
+public class aula20_igualdade_strings {
     public static void main(String[] args) {
         System.out.println("2" == "2");
 

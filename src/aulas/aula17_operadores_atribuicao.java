@@ -1,6 +1,6 @@
 package aulas;
 
-public class auala17_operadores_atribuicao {
+public class aula17_operadores_atribuicao {
     public static void main(String[] args)  {
         int a = 3;
         int b = a;
